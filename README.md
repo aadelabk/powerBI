@@ -1,4 +1,18 @@
 # powerBI
-Power BI files and Works
-
-This repo has Reports and Dashboards that are created based on sample data or publicy available data.
+## This folder contains 16 Reports/Dashboards that are created based on Dummy data or public data to evaluate some of the key metrices and KPI's in the respective industry.
+1. Adventure Works Dashboard (sales)
+2. Attendance Dashboard (HR)
+3. Bank Campaign Report (Marketing)
+4. Beauty Products Sales Report (sales)
+5. Call Centre Report (Admin)
+6. Census International Report (General)
+7. Covid Dashboard (General)
+8. Facebook Ads Report (Marketing/Social Media)
+9. Facebook Page Analysis (Social Media)
+10. HR Dashboard (HR)
+11. Restaurant Sales Report (Sales/Admin)
+12. San Fransisco Bike Shares report (General/Admin)
+13. SuperStore Performance Dashboard (Sales)
+14. Supply Chain Dashboard (Supply Chain)
+15. Talent Management Report (HR/Admin)
+16. Telecom Churn Analysis (Admin/Marketing)
